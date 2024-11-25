@@ -1,0 +1,32 @@
+body{
+    background-color: #3607e0;
+    color: #fff;
+    width: 99%;
+}
+.container{
+    width: 350px;
+    height: 50vh;
+    margin: 0 auto;
+    background-color: #5632d7;
+    padding: 20px 10px;
+    border-radius: 4px;
+}
+.input{
+    outline: none;
+    background-color: #5632d7;
+    border: none;
+    border-bottom: solid 1px white;
+    color: white;
+}
+
+.btn{
+    background-color: #3f6bfa;
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: all ease 0.5s;
+}
+.btn:hover{
+    background-color: #839ffb;
+}
